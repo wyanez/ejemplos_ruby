@@ -1,6 +1,9 @@
 Ejemplos de Ruby
 ----------------
-bd/demo_sqlite.rb -> Ejemplo Basico de Conexión a SQLite3 
+bd/demo_sqlite.rb -> Ejemplo Básico de Conexión a SQLite3 
+bd/demo_sqlite_02.rb -> Ejemplo de Query Básico a SQLite3 
+
+gtk/ejemplo_gtk_01.rb -> Hola Mundo en ruby-gyk
 
 William Yanez <wyanez@gmail.com> 
 Actualizado al 02/12/2011
