@@ -1,4 +1,6 @@
 Ejemplos de Ruby
 ----------------
+bd/demo_sqlite.rb -> Ejemplo Basico de Conexión a SQLite3 
 
 William Yanez <wyanez@gmail.com> 
+Actualizado al 02/12/2011
