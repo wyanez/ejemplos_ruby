@@ -11,6 +11,11 @@ GTK:
 ----
 gtk/ejemplo_gtk_01.rb -> Hola Mundo en ruby-gyk
 
+
+Soap:
+-----
+soap/server.rb -> ejemplo basico de un servidor usando SOAP (Ruby 1.8)
+soap/client.rb -> ejemplo basico de un cliente usando SOAP (Ruby 1.8)
 Utils:
 ------
 utils/validar_yaml.rb -> script simple que carga un archivo .yml y verifica su sintaxis 
